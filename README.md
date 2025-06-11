@@ -9,10 +9,9 @@ This Python project calculates employee salary increments based on their perform
 
 ## Screenshots
 
-### Input and Output Example
+### Code
 ![Screenshot 1](EmployeeIncrement1.png)
 
-### Final Output Display
 ![Screenshot 2](EmployeeIncrement2.png)
 
 ## Files
